@@ -9,6 +9,7 @@ export default function Home() {
       <Head>
         <title>한컴타자 다이렉트링크</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta http-equiv='refresh' content='4; url=https://taja2.netlify.app/' />
       </Head>
 
       <main>
