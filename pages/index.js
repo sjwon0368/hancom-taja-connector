@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-import LoaderGIF from '@public/Loader_Blue_a098n32.gif'
+import LoaderGIF from '../public/Loader_Blue_a098n32.gif'
 
 export default function Home() {
   return (
