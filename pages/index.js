@@ -16,7 +16,7 @@ export default function Home() {
         <p className="description">
           잠시만 기다려주세요! 한컴타자 서버에 연결하는 중입니다...
         </p><br/>
-        <img src={LoaderGIF} />
+        <img src='/Loader_Blue_a098n32.gif' />
       </main>
 
       <Footer />
