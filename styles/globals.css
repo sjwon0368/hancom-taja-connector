@@ -28,6 +28,14 @@ code {
     'Arial', sans-serif, 'Lato';
 }
 
+code:dark {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace, 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+    'Arial', sans-serif, 'Lato';
+}
+
 .container {
   height: 100vh;
   display: flex;
